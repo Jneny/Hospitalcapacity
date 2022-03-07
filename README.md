@@ -9,10 +9,10 @@ To identify patterns and trends in ICU hospitalizations along the progression of
 To develop machine learning models that predict the daily occupancy demands of Ontario's critical care units using patterns found in earlier stages of the pandemic
 Provide recommendations for hospitals to increase their preparedness for high patient volumes and needs in the future
 
-#Significance
+# Significance
 By examining Ontario's availability of ICU beds and occupancy for COVID-related critical illness (CRCI) dataset, we will identify the important patterns and trends in ICU hospitalizations, and use machine learning models with which hospitals can use as a reference to modify their responses in anticipation of upcoming volumes. 
 
-#Project Folder Directory
+# Project Folder Directory
 This project folder consists of the following sub-folders:
 
 Data contains the raw Availability of adult and pediatric ICU beds and occupancy for COVID-related critical illness (CRCI) data from the Ontario Ministry of Health and the subsetted data for machine learning

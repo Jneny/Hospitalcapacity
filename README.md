@@ -3,16 +3,17 @@ This repository includes the data, codes and documents for "Predicting The Daily
 Project is developed for the CIND 820 Big Data Analytics Project course.
 
 The tentative stages of the project are as follows:
-Step 1: The data is obtained from [Availability of adult and pediatric ICU beds and occupancy for COVID-related critical illness (CRCI)](https://data.ontario.ca/dataset/availability-of-adult-icu-beds-and-occupancy-for-covid-related-critical-illness-crci)
-Step 2: I conducted transformations of data type, checks for missing values and subsetted the data to the relevant variables to clean the data for analysis.
-Step 3:For the Exploratory Data analysis, I implemented graphing of the variable of interest, breaking it down to its components to check for trends, seasonality, and error, and 
-  Found the attribute type
-  Transformed the data to time series for analysis
-  checked for missing values
-  found the  max, min, mean and standard deviation of attribute
-  outliers - errrors
-Step 4:To preprocess the data for analysis I performed stationarity checks using Dickey-Fuller test and separated the data into training and test sets
-Step 5:I implemented the following machine learning algorithms to train a model to fit on the train set and predict the test set as well as into the future and evaluted the accuracy of the prediction model as compared to the test set using MSE
+
+- Step 1: The data is obtained from [Availability of adult and pediatric ICU beds and occupancy for COVID-related critical illness (CRCI)](https://data.ontario.ca/dataset/availability-of-adult-icu-beds-and-occupancy-for-covid-related-critical-illness-crci)
+- Step 2: I conducted transformations of data type, checks for missing values and subsetted the data to the relevant variables to clean the data for analysis.
+- Step 3:For the Exploratory Data analysis, I implemented graphing of the variable of interest, breaking it down to its components to check for trends, seasonality, and error, and 
+  - Found the attribute type
+  - Transformed the data to time series for analysis
+  - checked for missing values
+  - found the  max, min, mean and standard deviation of attribute
+  - outliers - errrors
+- Step 4:To preprocess the data for analysis I performed stationarity checks using Dickey-Fuller test and separated the data into training and test sets
+- Step 5:I implemented the following machine learning algorithms to train a model to fit on the train set and predict the test set as well as into the future and evaluted the accuracy of the prediction model as compared to the test set using MSE
 
 # Objectives
 The objectives of is project are:
